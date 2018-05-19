@@ -14,7 +14,7 @@ set imsearch=-1
 filetype on
 syntax on
 set guifont=Fixedsys\ Regular:h18
-set termguicolors     " enable true colors support
+set termguicolors     " enable true colours support
 let ayucolor="mirage"  " light mirage dark
 colorscheme ayu "two-firewatch
 set background=light "light or dark
